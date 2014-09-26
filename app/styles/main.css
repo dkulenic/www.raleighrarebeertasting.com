@@ -4,7 +4,7 @@ html {
 
 body {
     position:relative;
-	font-family: 'Open Sans', Calibri, Arial, sans-serif;
+    font-family: 'Open Sans', Calibri, Arial, sans-serif;
     font-weight:400;
     color: #fff;
     padding:0 0 0 0;
@@ -15,11 +15,11 @@ body {
     background-attachment:fixed;
     background-repeat: no-repeat;
     background-color:#0A1927;
-    background-image:url(/img/barrels.jpg);
+    background-image:url(/images/barrels.jpg);
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Lato', Calibri, Arial, sans-serif;
+  font-family: 'Lato', Calibri, Arial, sans-serif;
 }
 
 section {
@@ -53,11 +53,11 @@ p {
 ::-webkit-input-placeholder {
    color: white;
     letter-spacing: 1px;
-	font-weight: 400;
+  font-weight: 400;
 }
 
 :-moz-placeholder { /* Firefox 18- */
-    color: white;  
+    color: white;
     letter-spacing: 1px;
     font-weight: 400;
 }
@@ -65,13 +65,13 @@ p {
 ::-moz-placeholder {  /* Firefox 19+ */
    color: white;
     letter-spacing: 1px;
-	font-weight: 400;
+  font-weight: 400;
 }
 
-:-ms-input-placeholder {  
-   color: white;  
+:-ms-input-placeholder {
+   color: white;
     letter-spacing: 1px;
-	font-weight: 400;
+  font-weight: 400;
 }
 
 input, .btn {
@@ -89,7 +89,7 @@ input, .btn {
     clear: both;
     visibility: hidden;
     height: 0;
-    line-height: 0;  
+    line-height: 0;
 }
 
 .scrollup {
@@ -100,7 +100,7 @@ input, .btn {
     bottom:50px;
     right:100px;
     display:none;
-    background-image:url(../img/arrow-up.png);
+    background-image:url(../images/arrow-up.png);
     background-size:contain;
     text-indent:-9999px;
 }
@@ -111,7 +111,7 @@ input, .btn {
     100% {opacity:1}
 }
 
-@-moz-keyframes fadein { 
+@-moz-keyframes fadein {
     0% {opacity:0}
     90% {opacity:0}
     100% {opacity:1}
@@ -123,13 +123,13 @@ input, .btn {
     100% {opacity:1}
 }
 
-@-o-keyframes fadein { 
+@-o-keyframes fadein {
     0% {opacity:0}
     90% {opacity:0}
     100% {opacity:1}
 }
 
-.error { 
+.error {
     color:white;
     display:none;
     margin: 60px 0px 15px 0px;
@@ -137,21 +137,21 @@ input, .btn {
     font-size:12pt;
 }
 
-.success { 
-	display: none; 
-	padding:10px; 
-	color: #044406; 
-	font-size:12px;
-	background-color: #B7FBB9;
+.success {
+  display: none;
+  padding:10px;
+  color: #044406;
+  font-size:12px;
+  background-color: #B7FBB9;
 }
 
-.error img { 
-	vertical-align:top; 
+.error img {
+  vertical-align:top;
 }
 
 
 /********************************************************************
-	2. Header Section
+  2. Header Section
 *********************************************************************/
 
 header {
@@ -159,7 +159,7 @@ header {
     width:100%;
     min-height:600px;
     height:100%;
-    padding:1em 0 0;    
+    padding:1em 0 0;
     background-color: rgba(0, 0, 0, 0.2);
 }
 
@@ -171,16 +171,16 @@ header h1 {
     margin:60px 0;
     text-transform: uppercase;
     animation: fadein 2s;
-    -moz-animation: fadein 2s; 
-    -webkit-animation: fadein 2s; 
-    -o-animation: fadein 2s; 
+    -moz-animation: fadein 2s;
+    -webkit-animation: fadein 2s;
+    -o-animation: fadein 2s;
 }
 
 header.secondary h1, header.secondary h5 {
     animation: none;
-    -moz-animation: none; 
-    -webkit-animation: none; 
-    -o-animation: none; 
+    -moz-animation: none;
+    -webkit-animation: none;
+    -o-animation: none;
 }
 
 header h3 {
@@ -188,18 +188,18 @@ header h3 {
     margin: 40px 0 140px;
     font-weight:300;
     animation: fadein 3s;
-    -moz-animation: fadein 3s; 
-    -webkit-animation: fadein 3s; 
-    -o-animation: fadein 3s; 
+    -moz-animation: fadein 3s;
+    -webkit-animation: fadein 3s;
+    -o-animation: fadein 3s;
 }
 
 header h5 {
     font-weight:300;
     font-size: 20px;
     animation: fadein 2s;
-    -moz-animation: fadein 2s; 
-    -webkit-animation: fadein 2s; 
-    -o-animation: fadein 2s; 
+    -moz-animation: fadein 2s;
+    -webkit-animation: fadein 2s;
+    -o-animation: fadein 2s;
 }
 
 header h5 a, header h5 a:link, header h5 a:hover, header h5 a:visited, header h5 a:active {
@@ -229,57 +229,57 @@ header h5 a:hover {
 
 /* Countdown */
 #countdown_dashboard {
-	height: 110px;
+  height: 110px;
     margin:80px auto;
     max-width:650px;
     animation: fadein 4s;
-    -moz-animation: fadein 4s; 
-    -webkit-animation: fadein 4s; 
-    -o-animation: fadein 4s; 
+    -moz-animation: fadein 4s;
+    -webkit-animation: fadein 4s;
+    -o-animation: fadein 4s;
 }
 
 .dash {
-	width: 110px;
-	height: 114px;
-	background: transparent url('../img/dash.png') 0 0 no-repeat;
-	float: left;
-	margin-left: 10px;
+  width: 110px;
+  height: 114px;
+  background: transparent url('../images/dash.png') 0 0 no-repeat;
+  float: left;
+  margin-left: 10px;
     margin-right: 10px;
-	position: relative;
+  position: relative;
 }
- 
+
 .dash .digit {
-	font-size: 50pt;
-	font-weight: bold;
-	float: left;
-	width: 55px;
-	text-align: center;
-	color: #555;
-	position: relative;
+  font-size: 50pt;
+  font-weight: bold;
+  float: left;
+  width: 55px;
+  text-align: center;
+  color: #555;
+  position: relative;
 }
 
 .dash_title {
-	position: absolute;
-	display: block;
-	bottom: 0px;
-	right: 6px;
-	font-size: 9pt;
-	color: #fff;
-	text-transform: uppercase;
+  position: absolute;
+  display: block;
+  bottom: 0px;
+  right: 6px;
+  font-size: 9pt;
+  color: #fff;
+  text-transform: uppercase;
 }
 
 .dev_comment {
-	font-size: 14pt;
-	color: #777;
-	text-align: center;
-	font-style: italic;
-	margin: 40px 10px;
+  font-size: 14pt;
+  color: #777;
+  text-align: center;
+  font-style: italic;
+  margin: 40px 10px;
 }
 /* End Countdown */
 
 
 /********************************************************************
-	3. Newsletter Section
+  3. Newsletter Section
 *********************************************************************/
 
 #newsletter {
@@ -290,7 +290,7 @@ header h5 a:hover {
 #newsletter h2 {
     text-align:center;
     margin: 0 0 40px 0;
-    color: #34495e; 
+    color: #34495e;
 }
 
 #newsletter .fa {
@@ -304,7 +304,7 @@ header h5 a:hover {
     top: 0;
     padding-top: 15px;
     z-index: 1;
-    left: 30px;   
+    left: 30px;
 }
 
 #newsletter ul {
@@ -322,7 +322,7 @@ header h5 a:hover {
 }
 
 /********************************************************************
-	4. Features Section
+  4. Features Section
 *********************************************************************/
 
 #features {
@@ -363,8 +363,12 @@ header h5 a:hover {
     list-style-type: none;
 }
 
+li.thumbnail img {
+  height: 100px;
+}
+
 /********************************************************************
-	5. Social Section
+  5. Social Section
 *********************************************************************/
 
 #social {
@@ -399,7 +403,7 @@ header h5 a:hover {
 }
 
 /********************************************************************
-	8. Locate Section
+  8. Locate Section
 *********************************************************************/
 
 #locate {
@@ -457,7 +461,7 @@ input.view-map-selector:checked ~ #locate-overlay {
 
 input.view-map-selector:checked ~ #view-address-btn {
     display:block;
-}   
+}
 
 #locate label.btn {
     color: #fff;
@@ -516,7 +520,7 @@ input.view-map-selector:checked ~ #view-address-btn {
 
 
 /********************************************************************
-	9. Media Queries
+  9. Media Queries
 *********************************************************************/
 
 @media (max-width:686px) {
@@ -527,14 +531,14 @@ input.view-map-selector:checked ~ #view-address-btn {
 }
 
 .dash {
-	width: 80px;
-	height: 90px;
+  width: 80px;
+  height: 90px;
     background-size:contain;
 }
- 
+
 .dash .digit {
-	font-size: 35pt;
-	width: 40px;
+  font-size: 35pt;
+  width: 40px;
 }
 /* End Countdown */
 
@@ -548,14 +552,14 @@ input.view-map-selector:checked ~ #view-address-btn {
 }
 
 .dash {
-	width: 60px;
-	height: 70px;
+  width: 60px;
+  height: 70px;
     background-size:contain;
 }
- 
+
 .dash .digit {
-	font-size: 25pt;
-	width: 30px;
+  font-size: 25pt;
+  width: 30px;
 }
 /* End Countdown */
 
@@ -589,7 +593,7 @@ header h3 {
 }
 
 .dash {
-	margin-top:5px;
+  margin-top:5px;
 }
 /* End Countdown */
 
