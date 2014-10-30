@@ -37,7 +37,7 @@ module.exports = function (grunt) {
                 permalinks: {
                     preset: 'pretty'
                 },
-                googleAnalytics: 'UA-XXXXXXX-YY'
+                googleAnalytics: 'UA-56240634-1'
             },
             dist: {
                 files: {
