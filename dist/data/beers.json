@@ -48,7 +48,7 @@
   {
       "name": "Pinot Noir Kolsch",
       "brewery": "Bear Republic",
-      "description": ""
+      "description": "Our Kolsch that has been re-fermented with 10% pinot noir juice from the local Holdredge Wines here in Healdsburg"
   },
   {
       "name": "Cinammon Sunrise Stout",
@@ -68,7 +68,7 @@
   {
       "name": "Vietnamese Coffee Dark Hollow",
       "brewery": "Blue Mountain",
-      "description": "Collaboration with Mekong"
+      "description": "Collaboration with Mekong - The special beans used to age in the barrel with our strong stout were procured by Mekong's own An Bui.  With two pounds per barrel of the coffee, this iteration of Dark Hallow exudes a stong but rounded fresh and deep cofee flavor, matching the hearty oak char and vanilla flavors from the first-use Heaven Hill bourbon barrels."
   },
   {
       "name": "Za'Tart",
@@ -78,7 +78,7 @@
   {
       "name": "Wild Horse Porter",
       "brewery": "Brooklyn",
-      "description": "fermented with wild brettanomyces yeast and is a collaboration between ourselves, Greg Engert of Bluejacket Brewery in DC and Peter Bouckaert of New Belgium. , Jong Kriek"
+      "description": "fermented with wild brettanomyces yeast and is a collaboration between ourselves, Greg Engert of Bluejacket Brewery in DC and Peter Bouckaert of New Belgium."
   },
   {
       "name": "Mash",
@@ -118,7 +118,7 @@
   {
       "name": "Black Swirl",
       "brewery": "Deep River",
-      "description": ""
+      "description": "A Black Gose brewed with Coastal NC Oysters"
   },
   {
       "name": "",
@@ -133,7 +133,7 @@
   {
       "name": "Aviary #8",
       "brewery": "Evil Twin",
-      "description": "Belgian Blond aged in Pierre Ferrand barrels;  Port Barrel"
+      "description": "Belgian Blond aged in Pierre Ferrand barrel"
   },
   {
       "name": "",
@@ -161,7 +161,7 @@
       "description": ""
   },
   {
-      "name": "2013 IGOR, Rhum Barrel aged Cack",
+      "name": "2013 IGOR",
       "brewery": "Fullsteam",
       "description": ""
   },
@@ -226,9 +226,9 @@
       "description": ""
   },
   {
-      "name": "Wine",
-      "brewery": "Mystery – Admiration",
-      "description": "Barrel Aged Belgian Rye Imperial Stout with Cherries & Mythos #1: A Sour Beer with Brett"
+      "name": "Admiration",
+      "brewery": "Mystery",
+      "description": "Barrel Aged Belgian Rye Imperial Stout with Cherries"
   },
   {
       "name": "2014 American Sour",
@@ -238,7 +238,7 @@
   {
       "name": "Cherry Felix",
       "brewery": "New Belgium",
-      "description": "Felix Love (our “Light” Sour Base) blended with Cherries 7% & Oscar Worthy Coffee"
+      "description": "Felix Love (our “Light” Sour Base) blended with Cherries 7%"
   },
   {
       "name": "Dragon's Milk brewed with Coffee",
@@ -306,14 +306,14 @@
       "description": ""
   },
   {
-      "name": "Once in a Lifetime – Biere de Garde made with field malted red fife & Kentucky Folklore – Stout aged in Kentucky Bourbon Barrels.",
+      "name": "Once in a Lifetime",
       "brewery": "Stillwater",
-      "description": ""
+      "description": "Biere de Garde made with field malted red fife"
   },
   {
-      "name": "",
+      "name": "Passion Project",
       "brewery": "Stone",
-      "description": ""
+      "description": "Stone Reason Be Damned Abbey Style Ale aged in Red Wine Barrels with Stone Farms Passion Fruit: ABV 8.2%"
   },
   {
       "name": "Wooden Cactus",
@@ -341,9 +341,9 @@
       "description": ""
   },
   {
-      "name": "BBL Wee Heavy",
-      "brewery": "Victory – Earth & Flame",
-      "description": "Earth & Flame was forged from the friendship of Victory Brewing Company and Earth"
+      "name": "Earth & Flame",
+      "brewery": "Victory",
+      "description": "BBL Wee Heavy - Earth & Flame was forged from the friendship of Victory Brewing Company and Earth"
   },
   {
       "name": "",
