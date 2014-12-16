@@ -1,7 +1,5 @@
 //ZTApps 2013
 //Enables placeholder in IE9 or earlier
-
-
 $('#n_name').focus(function() {
     $('div.n-name').hide();
 });
@@ -20,4 +18,4 @@ $('#n_email').focusout(function() {
     if($('#n_email').val() == "") {
         $('div.n-email').show();
     }
-});            
+});

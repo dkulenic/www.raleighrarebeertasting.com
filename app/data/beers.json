@@ -1,16 +1,358 @@
 [
   {
-    "name": "Rodenbach Foederbier",
-    "brewery": "Brouwerij Rodenbach (Palm)",
-    "note": "(This is the only keg of this beer in the US!)",
-    "style": "Sour Red/Brown",
-    "abv": "6.0",
-    "description": "The Rodenbach Foederbier is found only in Belgium, and this keg will be the only one of its kind in the United States. It is unfiltered and unpasteurized, and comes directly from Rodenbach's famous French Oak vats that range up to 150 years old!"
+    "name": "BBL Speedway Stout",
+    "brewery": "AleSmith",
+    "note": "",
+    "style": "",
+    "abv": "",
+    "description": ""
   },
   {
-    "name": "Obelisk, 2012",
-    "brewery": "Mystery Brewing Company",
-    "style": "Rye Quad",
-    "description": "Barrel-fermented, brewed with pommelos."
+    "name": "Monmouth Red",
+    "brewery": "Allagash",
+    "note": "",
+    "style": "",
+    "abv": "",
+    "description": "Sour Red aged in Apple Brandy Barrels"
+  },
+  {
+    "name": "Currant Affair",
+    "brewery": "Allagash",
+    "description": "A dark sour beer and a ton of red currants"
+  },
+  {
+      "name": "Horse Tongue Thribble Currant",
+      "brewery": "Anderson Valley",
+      "description": "This beer is produced by taking Triple wort and fermenting it with our HTW culture"
+  },
+  {
+      "name": "",
+      "brewery": "Ardent",
+      "description": ""
+  },
+  {
+      "name": "Flanders Red aged in Woodford Reserve barrels aged for 2 years",
+      "brewery": "Aviator",
+      "description": ""
+  },
+  {
+      "name": "Victory at Sea",
+      "brewery": "Ballast Point",
+      "description": "Aged in Four Roses Bourbon Barrels"
+  },
+  {
+      "name": "The Grizz",
+      "brewery": "Bear Republic",
+      "description": "Belgian Brown Ale and this version was aged for 12 months in a 26 year old Charbay rum barrel. Charbay is the distiller who makes our Racer 5 and Big Bear into whiskey… & Pinot Noir Kolsch"
+  },
+  {
+      "name": "Pinot Noir Kolsch",
+      "brewery": "Bear Republic",
+      "description": ""
+  },
+  {
+      "name": "Cinammon Sunrise Stout",
+      "brewery": "Bell's",
+      "description": "12.7% ABV Double Cream Stout aged in Traverse City Whiskey barrels with cinnamon and vanilla beans.  Flavor Notes: Light whiskey, vanilla, woody, creamy, cinnamon spicy"
+  },
+  {
+      "name": "Muerto Viviente",
+      "brewery": "Big Boss",
+      "description": "Tequila barrel aged Belgian Dark Strong ale and Cabernet barrel aged beer with Brett (name TBD)"
+  },
+  {
+      "name": "TBD",
+      "brewery": "Big Boss",
+      "description": "Cabernet barrel aged beer with Brett (name TBD)"
+  },
+  {
+      "name": "Vietnamese Coffee Dark Hollow",
+      "brewery": "Blue Mountain",
+      "description": "Collaboration with Mekong"
+  },
+  {
+      "name": "Za'Tart",
+      "brewery": "Boulevard",
+      "description": "Low ABV, sour rustic blonde with Za’atar spices, Za’Tart is the beer that resulted from our collaboration with Cambridge Brewing Company."
+  },
+  {
+      "name": "Wild Horse Porter",
+      "brewery": "Brooklyn",
+      "description": "fermented with wild brettanomyces yeast and is a collaboration between ourselves, Greg Engert of Bluejacket Brewery in DC and Peter Bouckaert of New Belgium. , Jong Kriek"
+  },
+  {
+      "name": "Mash",
+      "brewery": "Bruery",
+      "description": "An English Barleywine aged in Bourbon barrels, Mash is an intense yet balanced beer with notes of burnt caramel, toasted bread, ripe pear, dried figs, vanilla, toasted coconut and finishes with oak tannin."
+  },
+  {
+      "name": "Port Barrel Megalodon",
+      "brewery": "Champion",
+      "description": "Imperial Coffee Porter aged Woodford Reserve barrels previously used for making Port"
+  },
+  {
+      "name": "Explorador Pale Ale brewed with neomexicanus hops (it will highlight the Mintras and Amalia varieties of this native hops)",
+      "brewery": "Compass Rose",
+      "description": ""
+  },
+  {
+      "name": "German Chocolate Cake Stout",
+      "brewery": "Coronado",
+      "description": "Imperial milk stout with coconut and chocolate. Brewed for Bottlecraft (San Diego)."
+  },
+  {
+      "name": "Pappy Van Winkle aged Imperial Stout",
+      "brewery": "Crank Arm",
+      "description": ""
+  },
+  {
+      "name": "Pappy Van Winkle aged Derailler Barley Wine",
+      "brewery": "Crank Arm",
+      "description": ""
+  },
+  {
+      "name": "Sunnyvale Pineapple Berliner Weisse",
+      "brewery": "Deep River",
+      "description": "Berliner Weisse with pineapples. (this beer has never been released) and Black Swirl"
+  },
+  {
+      "name": "Black Swirl",
+      "brewery": "Deep River",
+      "description": ""
+  },
+  {
+      "name": "",
+      "brewery": "Devils Backbone",
+      "description": ""
+  },
+  {
+      "name": "All Hail, WassAle",
+      "brewery": "Double Barley",
+      "description": "Barley Wine made with ginger, nutmeg, apples & oranges"
+  },
+  {
+      "name": "Aviary #8",
+      "brewery": "Evil Twin",
+      "description": "Belgian Blond aged in Pierre Ferrand barrels;  Port Barrel"
+  },
+  {
+      "name": "",
+      "brewery": "Foothills",
+      "description": ""
+  },
+  {
+      "name": "2011 Blushing Monk",
+      "brewery": "Founders",
+      "description": ""
+  },
+  {
+      "name": "2012 Crumudgeon's Better Half",
+      "brewery": "Founders",
+      "description": ""
+  },
+  {
+      "name": "2008 Top Sail Porter",
+      "brewery": "Full Sail",
+      "description": ""
+  },
+  {
+      "name": "2011 Old Boardhead barley wine",
+      "brewery": "Full Sail",
+      "description": ""
+  },
+  {
+      "name": "2013 IGOR, Rhum Barrel aged Cack",
+      "brewery": "Fullsteam",
+      "description": ""
+  },
+  {
+      "name": "Rhum Barrel aged Cack-a-lacky",
+      "brewery": "Fullsteam",
+      "description": ""
+  },
+  {
+      "name": "Brandy barrel aged First Frost",
+      "brewery": "Fullsteam",
+      "description": ""
+  },
+  {
+      "name": "Ambrosia",
+      "brewery": "Great Divide",
+      "description": "American Sour kettle sour blended with a Bretty sours base beer aged in Chardonnay barrels"
+  },
+  {
+      "name": "Rackhouse Ale '13",
+      "brewery": "Great Lakes",
+      "description": "A sweet ale aged in oak bourbon barrels (Heaven Hill BBls)"
+  },
+  {
+      "name": "Super Freak",
+      "brewery": "Green Flash",
+      "description": "LeFreak (Belgian-style IIPA) aged in San Pasqual Grenache wine barrels with brettanomyces character"
+  },
+  {
+      "name": "Apple Brandy BBL Gingerbread Stout",
+      "brewery": "Hardywood",
+      "description": ""
+  },
+  {
+      "name": "Pineapple Great Return",
+      "brewery": "Hardywood",
+      "description": ""
+  },
+  {
+      "name": "",
+      "brewery": "Haw River",
+      "description": ""
+  },
+  {
+      "name": "Belgian Triple brewed by Oscar Wong on the pilot system",
+      "brewery": "Highland",
+      "description": ""
+  },
+  {
+      "name": "",
+      "brewery": "Lagunitas",
+      "description": ""
+  },
+  {
+      "name": "BBL Wedge Black IPA",
+      "brewery": "Left Coast",
+      "description": ""
+  },
+  {
+      "name": "2004 (10th Anniversary) Imperial Stout aged in French Chardonnay barrels, 2007 Imperial Stout aged in brandy barrels, 2009 Imperial Stout aged in brandy barrels and 2006 Smoke Jumper (original batch).",
+      "brewery": "Left Hand",
+      "description": ""
+  },
+  {
+      "name": "Wine",
+      "brewery": "Mystery – Admiration",
+      "description": "Barrel Aged Belgian Rye Imperial Stout with Cherries & Mythos #1: A Sour Beer with Brett"
+  },
+  {
+      "name": "2014 American Sour",
+      "brewery": "Natty Greene's",
+      "description": ""
+  },
+  {
+      "name": "Cherry Felix",
+      "brewery": "New Belgium",
+      "description": "Felix Love (our “Light” Sour Base) blended with Cherries 7% & Oscar Worthy Coffee"
+  },
+  {
+      "name": "Dragon's Milk brewed with Coffee",
+      "brewery": "New Holland",
+      "description": ""
+  },
+  {
+      "name": "2013 Imperial Stout aged in a Balcones Distillery Rumble Oak barrel.",
+      "brewery": "Olde Hickory",
+      "description": ""
+  },
+  {
+      "name": "BBL Adoration",
+      "brewery": "Ommegang",
+      "description": ""
+  },
+  {
+      "name": "Wild Knight",
+      "brewery": "Oskar Blues",
+      "description": ""
+  },
+  {
+      "name": "Colossal One – Imperial Stout brewed with West Malle Trappist yeast",
+      "brewery": "Port City",
+      "description": ""
+  },
+  {
+      "name": "2013 Buffalo Trace BBL Kaldi Imperial Coffee Stout, Cruzan  Rum barrel aged Quest/Trophy Collaboration Smoked Peach Saison, Miner Family Vineyards Cabernet Barrel aged Sour Kriek and Cask of Smoking Mirror Porter with Greenbrier Farms bacon and Granny Smith apples",
+      "brewery": "Quest",
+      "description": ""
+  },
+  {
+      "name": "2013 Miller's Toll Imperial Oatmeal Stout , A Belgian Braggot (Belgian Quad with loads of honey",
+      "brewery": "Raleigh Brewing",
+      "description": "14.3% ABV), & Sour Bourbon Barrel"
+  },
+  {
+      "name": "Unholy Beast",
+      "brewery": "Red Brick",
+      "description": "Bourbon Barrel Aged Belgian Stout brewed for the Redbrick 21st Anniversary celebration. Brewed once, draft only."
+  },
+  {
+      "name": "Foeder Bier.  Only keg in the US!",
+      "brewery": "Rodenbach",
+      "description": ""
+  },
+  {
+      "name": "Imperial Stout aged in Utopias and Bourbon barrels and brewed with cocoa nibs, coffee, vanilla and black pepper.",
+      "brewery": "Sam Adams",
+      "description": ""
+  },
+  {
+      "name": "",
+      "brewery": "Sierra Nevada – Barrel Aged Scotch Ale and Bourbon Barrel Aged Narwhal",
+      "description": ""
+  },
+  {
+      "name": "Smuttlabs Shebang Triple IPA and Smuttlabs Shortweisse",
+      "brewery": "Smuttynose",
+      "description": ""
+  },
+  {
+      "name": "Local Whiskey Barrel Aged Captain of Industry",
+      "brewery": "Steel String",
+      "description": ""
+  },
+  {
+      "name": "Once in a Lifetime – Biere de Garde made with field malted red fife & Kentucky Folklore – Stout aged in Kentucky Bourbon Barrels.",
+      "brewery": "Stillwater",
+      "description": ""
+  },
+  {
+      "name": "",
+      "brewery": "Stone",
+      "description": ""
+  },
+  {
+      "name": "Wooden Cactus",
+      "brewery": "Sweetwater",
+      "description": "Saison that has been aged in a tequila barrel for a year with bitter and sweet orange peel."
+  },
+  {
+      "name": "Rumzilla",
+      "brewery": "Terrapin",
+      "description": "Hopzilla aged in Richland Rum barrels for a year and Reunion 13 aged in Richland Rum barrels for 2 years"
+  },
+  {
+      "name": "Stout Rulquin",
+      "brewery": "Tilquin",
+      "description": "A collaboration featuring Brasserie Artisanale de Rulles, created with a blend of 7/8 Rulles Brune and 1/8 lambic, which was fermented in wooden barrels for 8 months"
+  },
+  {
+      "name": "Impending Descent",
+      "brewery": "Troegs",
+      "description": "Russian Imperial Stout and a cask of Java Head Stout with Videri Chocolate Factory cocoa nibs, vanilla beans and dried cherries"
+  },
+  {
+      "name": "",
+      "brewery": "Trophy",
+      "description": ""
+  },
+  {
+      "name": "BBL Wee Heavy",
+      "brewery": "Victory – Earth & Flame",
+      "description": "Earth & Flame was forged from the friendship of Victory Brewing Company and Earth"
+  },
+  {
+      "name": "",
+      "brewery": "Weyerbacher",
+      "description": ""
+  },
+  {
+      "name": "2013 BBL Koschei the Dealthless Imperial Stout",
+      "brewery": "White Street",
+      "description": ""
   }
 ]

@@ -2,12 +2,17 @@
   "name": "rrvbt",
   "private": true,
   "dependencies": {
-    "font-awesome": "~4.1.0",
-    "bootstrap": "3.2.0",
+    "font-awesome": "4.2.0",
+    "bootstrap": "3.3.1",
     "jquery": "~2.1.1",
     "angularjs": "~1.3",
     "angular-route": "~1.3",
     "angular-sanitize": "~1.3",
     "angular-resource": "~1.3"
+  },
+  "resolutions": {
+    "angular": "1.3.7",
+    "bootstrap": "3.3.1",
+    "font-awesome": "4.2.0"
   }
 }

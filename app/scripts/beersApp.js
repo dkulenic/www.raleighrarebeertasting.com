@@ -18,7 +18,6 @@ var beersApp = angular.module('beersApp', [
 .controller('IndexCtrl', ['$scope', 'myService', function ($scope, myService) {
     // This array holds the beers.
     $scope.beersArr = [];
-    $scope.lol = "omg";
 
     // Function to return all beers to the scope so that
     // we can print out the list.

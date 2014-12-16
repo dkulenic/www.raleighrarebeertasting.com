@@ -1,4 +1,4 @@
---
+---
 layout: page.hbs
 title: Breweries and Beers
 ---
@@ -9,7 +9,6 @@ title: Breweries and Beers
                 <h2>The Beers</h2>
                 <p class="lead text-center">Beers will be announced as they confirmed so check back often to see what has been added.</p>
 
-                <!--
                 <table class="table table-striped table-bordered">
                     <thead>
                         <tr>
@@ -22,15 +21,14 @@ title: Breweries and Beers
                             <td>{[{ beer.brewery }]}</td>
                             <td>
                                 <b>{[{ beer.name }]}</b> <span ng-if="beer.note" style="color:#cc0000;">{[{ beer.note }]}</span><br>
-                                {[{ beer.style }]}<br>
+                                <span ng-if="beer.style">{[{ beer.style }]}<br></span>
                                 <span ng-if="beer.abv">ABV: {[{ beer.abv }]}%<br></span>
-                                <span ng-if="beer.description"><br>{[{ beer.description }]}</span>
+                                <span ng-if="beer.description">{[{ beer.description }]}</span>
                             </td>
                         </tr>
                     </tbody>
                 </table>
                 <br><br><br>
-                -->
 
                 <h2>The Breweries</h2>
                 <p class="lead">This is a list of the breweries that have signed on so far to participate. Please check this page regularly for any updates.</p>
