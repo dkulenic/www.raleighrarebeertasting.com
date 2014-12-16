@@ -85,22 +85,8 @@
     <!-- build:js(.tmp) /scripts/beersApp.js -->
     <script src="/scripts/beersApp.js"></script>
     <!-- endbuild -->
-
-    <script>
-        $(document).ready(function(){
-            $(window).scroll(function(){
-                if ($(this).scrollTop() > 100) {
-                    $('.scrollup').fadeIn();
-                } else {
-                    $('.scrollup').fadeOut();
-                }
-            });
-
-            $('.scrollup').click(function(){
-                $("html, body").animate({ scrollTop: 0 }, 600);
-                return false;
-            });
-        });
-    </script>
+    <!-- build:js(.tmp) /scripts/main.js -->
+    <script src="/scripts/main.js"></script>
+    <!-- endbuild -->
     </body>
 </html>
