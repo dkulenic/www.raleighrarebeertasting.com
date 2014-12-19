@@ -17,14 +17,14 @@ var beersApp = angular.module('beersApp', [
 }])
 .controller('IndexCtrl', ['$scope', 'myService', function ($scope, myService) {
     // This array holds the beers.
-    $scope.beersArr = [];
+    $scope.beers = [];
 
     // Function to return all beers to the scope so that
     // we can print out the list.
     $scope.getAllBeers = function() {
         myService.getAllBeers().then(function(d) {
             // The array of beers starts out empty.
-            $scope.beersArr = d.data;
+            $scope.beers = d.data;
         });
     };
 }]);

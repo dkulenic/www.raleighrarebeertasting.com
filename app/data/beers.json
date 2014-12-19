@@ -1,24 +1,24 @@
 [
   {
-    "name": "BBL Speedway Stout",
-    "brewery": "AleSmith",
-    "note": "",
-    "style": "",
-    "abv": "",
-    "description": "Draft"
+      "name": "BBL Speedway Stout",
+      "brewery": "AleSmith",
+      "note": "",
+      "style": "",
+      "abv": "",
+      "description": "Draft"
   },
   {
-    "name": "Monmouth Red",
-    "brewery": "Allagash",
-    "note": "",
-    "style": "",
-    "abv": "",
-    "description": "Sour Red aged in Apple Brandy Barrels"
+      "name": "Monmouth Red",
+      "brewery": "Allagash",
+      "note": "",
+      "style": "",
+      "abv": "",
+      "description": "Sour Red aged in Apple Brandy Barrels"
   },
   {
-    "name": "Currant Affair",
-    "brewery": "Allagash",
-    "description": "A dark sour beer and a ton of red currants"
+      "name": "Currant Affair",
+      "brewery": "Allagash",
+      "description": "A dark sour beer and a ton of red currants"
   },
   {
       "name": "Horse Tongue Thribble Currant",

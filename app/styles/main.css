@@ -50,30 +50,6 @@ p {
     font-family: open-sans, sans-serif;
 }
 
-::-webkit-input-placeholder {
-   color: white;
-    letter-spacing: 1px;
-  font-weight: 400;
-}
-
-:-moz-placeholder { /* Firefox 18- */
-    color: white;
-    letter-spacing: 1px;
-    font-weight: 400;
-}
-
-::-moz-placeholder {  /* Firefox 19+ */
-   color: white;
-    letter-spacing: 1px;
-  font-weight: 400;
-}
-
-:-ms-input-placeholder {
-   color: white;
-    letter-spacing: 1px;
-  font-weight: 400;
-}
-
 input, .btn {
     letter-spacing:1px;
 }
