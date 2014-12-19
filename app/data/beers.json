@@ -351,7 +351,7 @@
       "description": ""
   },
   {
-      "name": "2013 BBL Koschei the Dealthless Imperial Stout",
+      "name": "2013 BBL Koschei the Deathless Imperial Stout",
       "brewery": "White Street",
       "description": ""
   },
@@ -360,42 +360,42 @@
       "brewery": "Brooklyn",
       "description": "based on our dark abbey ale, Local 2. We suffused it with whole cherries in barrels for five months, then re-fermented in the bottle with a blend of Champagne yeast and Brett. ABV 10.3% "
   },
-  {  
+  {
       "name": "Black Ops",
       "brewery": "Brooklyn",
       "description": "strong stout concocted by the Brooklyn brewing team under cover of secrecy and hidden from everyone else at the brewery. The myth is that this supposed “Black Ops” was then aged for four months in bourbon barrels, bottled flat, and re-fermented with Champagne yeast. "
   },
-  {  
+  {
       "name": "Port Barrel-Aged Even More Jesus ",
       "brewery": "Evil Twin",
       "description": ""
   },
-  {  
-      "name": "Bourbon Barrel-Aged Even More Jesus"
+  {
+      "name": "Bourbon Barrel-Aged Even More Jesus",
       "brewery": "Evil Twin",
       "description": ""
   },
   {
     "name": "Dagger",
       "brewery": "Haw River Farmhouse Ales",
-      "description": " A sour white ale aged on organic white apricots and white oak chips for twelve months."
+      "description": "A sour white ale aged on organic white apricots and white oak chips for twelve months."
   },
-  { 
+  {
     "name": "Mythos #1",
       "brewery": "Mystery",
       "description": "A Sour Beer with Bret"
   },
-  {  
+  {
       "name": "Oscar Worthy Coffee",
       "brewery": "New Belgium",
       "description": "Oscar Love (our “Dark” Sour Base) blended with Ethiopian Coffee 7%"
   },
-  { 
+  {
       "name": "Cruzan Rum Barrel-Aged Saison",
       "brewery": "Quest/Trophy Collaboration",
       "description": "Smoked Peach Saison"
   },
-  {  
+  {
       "name": "Miner Family Vineyards Cabernet Barrel-Aged Sour Kriek",
       "brewery": "Quest",
       "description": ""
@@ -410,17 +410,17 @@
       "brewery": "Raleigh Brewing",
       "description": "Belgian Quad with loads of Honey - 14.3%"
   },
-  { 
+  {
       "name": "Sour Bourbon Barrel-Aged Hidden Pipe Porter",
       "brewery": "Raleigh Brewing",
       "description": ""
   },
-  { 
+  {
       "name": "Bouron Barrel-Aged Narwhal",
       "brewery": "Sierra Nevada",
       "description": ""
   },
-  { 
+  {
       "name": "Smuttlabs Shortweisse",
       "brewery": "Smuttynose",
       "description": ""
@@ -429,4 +429,5 @@
       "name": "Kentucky Folklore",
       "brewery": "Stillwater",
       "description": "Stout aged in Kentucky Bourbon Barrels"
-  
+  }
+]

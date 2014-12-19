@@ -5,7 +5,7 @@
     "note": "",
     "style": "",
     "abv": "",
-    "description": ""
+    "description": "Draft"
   },
   {
     "name": "Monmouth Red",
@@ -23,7 +23,7 @@
   {
       "name": "Horse Tongue Thribble Currant",
       "brewery": "Anderson Valley",
-      "description": "This beer is produced by taking Triple wort and fermenting it with our HTW culture"
+      "description": "This beer is produced by taking Triple wort and fermenting it with our HTW culture - all done in wine barrels along with a very healthy dose of blackcurrant.  This beer is not fermented in a stainless tank and doesn't use brewer’s yeast at all - only the wild yeast and bacteria strains in our HTW culture.  Fermentation in the barrel takes up to 6 months.  Final ABV is estimated (we haven't tested it yet) to be 10.5%.  It's also bracingly sour with a pH of around 3.3.  Very cool purple/burgundy color."
   },
   {
       "name": "",
@@ -91,9 +91,9 @@
       "description": "Imperial Coffee Porter aged Woodford Reserve barrels previously used for making Port"
   },
   {
-      "name": "Explorador Pale Ale brewed with neomexicanus hops (it will highlight the Mintras and Amalia varieties of this native hops)",
+      "name": "Explorador Pale Ale",
       "brewery": "Compass Rose",
-      "description": ""
+      "description": "brewed with neomexicanus hops (it will highlight the Mintras and Amalia varieties of this native hops)"
   },
   {
       "name": "German Chocolate Cake Stout",
@@ -156,7 +156,7 @@
       "description": ""
   },
   {
-      "name": "2011 Old Boardhead barley wine",
+      "name": "2011 Old Boardhead Barley Wine",
       "brewery": "Full Sail",
       "description": ""
   },
@@ -201,9 +201,9 @@
       "description": ""
   },
   {
-      "name": "",
-      "brewery": "Haw River",
-      "description": ""
+      "name": "Joke",
+      "brewery": "Haw River Farmhouse Ales",
+      "description": "A sour black ale aged on organic black cherries and toasted oak chips for twelve months"
   },
   {
       "name": "Belgian Triple brewed by Oscar Wong on the pilot system",
@@ -266,14 +266,14 @@
       "description": ""
   },
   {
-      "name": "2013 Buffalo Trace BBL Kaldi Imperial Coffee Stout, Cruzan  Rum barrel aged Quest/Trophy Collaboration Smoked Peach Saison, Miner Family Vineyards Cabernet Barrel aged Sour Kriek and Cask of Smoking Mirror Porter with Greenbrier Farms bacon and Granny Smith apples",
+      "name": "2013 Buffalo Trace BBL Kaldi Imperial Coffee Stout",
       "brewery": "Quest",
       "description": ""
   },
   {
-      "name": "2013 Miller's Toll Imperial Oatmeal Stout , A Belgian Braggot (Belgian Quad with loads of honey",
+      "name": "2013 Miller's Toll Imperial Oatmeal Stout",
       "brewery": "Raleigh Brewing",
-      "description": "14.3% ABV), & Sour Bourbon Barrel"
+      "description": ""
   },
   {
       "name": "Unholy Beast",
@@ -281,9 +281,9 @@
       "description": "Bourbon Barrel Aged Belgian Stout brewed for the Redbrick 21st Anniversary celebration. Brewed once, draft only."
   },
   {
-      "name": "Foeder Bier.  Only keg in the US!",
+      "name": "Foeder Bier",
       "brewery": "Rodenbach",
-      "description": ""
+      "description": "Only keg in the US!"
   },
   {
       "name": "Imperial Stout aged in Utopias and Bourbon barrels and brewed with cocoa nibs, coffee, vanilla and black pepper.",
@@ -291,12 +291,12 @@
       "description": ""
   },
   {
-      "name": "",
-      "brewery": "Sierra Nevada – Barrel Aged Scotch Ale and Bourbon Barrel Aged Narwhal",
+      "name": "Barrel-Aged Scotch Ale",
+      "brewery": "Sierra Nevada",
       "description": ""
   },
   {
-      "name": "Smuttlabs Shebang Triple IPA and Smuttlabs Shortweisse",
+      "name": "Smuttlabs Shebang Triple IPA",
       "brewery": "Smuttynose",
       "description": ""
   },
@@ -351,8 +351,83 @@
       "description": ""
   },
   {
-      "name": "2013 BBL Koschei the Dealthless Imperial Stout",
+      "name": "2013 BBL Koschei the Deathless Imperial Stout",
       "brewery": "White Street",
       "description": ""
+  },
+  {
+      "name": "Jong Kriek",
+      "brewery": "Brooklyn",
+      "description": "based on our dark abbey ale, Local 2. We suffused it with whole cherries in barrels for five months, then re-fermented in the bottle with a blend of Champagne yeast and Brett. ABV 10.3% "
+  },
+  {
+      "name": "Black Ops",
+      "brewery": "Brooklyn",
+      "description": "strong stout concocted by the Brooklyn brewing team under cover of secrecy and hidden from everyone else at the brewery. The myth is that this supposed “Black Ops” was then aged for four months in bourbon barrels, bottled flat, and re-fermented with Champagne yeast. "
+  },
+  {
+      "name": "Port Barrel-Aged Even More Jesus ",
+      "brewery": "Evil Twin",
+      "description": ""
+  },
+  {
+      "name": "Bourbon Barrel-Aged Even More Jesus",
+      "brewery": "Evil Twin",
+      "description": ""
+  },
+  {
+    "name": "Dagger",
+      "brewery": "Haw River Farmhouse Ales",
+      "description": "A sour white ale aged on organic white apricots and white oak chips for twelve months."
+  },
+  {
+    "name": "Mythos #1",
+      "brewery": "Mystery",
+      "description": "A Sour Beer with Bret"
+  },
+  {
+      "name": "Oscar Worthy Coffee",
+      "brewery": "New Belgium",
+      "description": "Oscar Love (our “Dark” Sour Base) blended with Ethiopian Coffee 7%"
+  },
+  {
+      "name": "Cruzan Rum Barrel-Aged Saison",
+      "brewery": "Quest/Trophy Collaboration",
+      "description": "Smoked Peach Saison"
+  },
+  {
+      "name": "Miner Family Vineyards Cabernet Barrel-Aged Sour Kriek",
+      "brewery": "Quest",
+      "description": ""
+  },
+  {
+      "name": "Smoking Mirror Porter",
+      "brewery": "Quest",
+      "description": "Cask with Greenbrier Farms Bacon and Granny Smith Apples"
+  },
+  {
+      "name": "Belgian Braggot",
+      "brewery": "Raleigh Brewing",
+      "description": "Belgian Quad with loads of Honey - 14.3%"
+  },
+  {
+      "name": "Sour Bourbon Barrel-Aged Hidden Pipe Porter",
+      "brewery": "Raleigh Brewing",
+      "description": ""
+  },
+  {
+      "name": "Bouron Barrel-Aged Narwhal",
+      "brewery": "Sierra Nevada",
+      "description": ""
+  },
+  {
+      "name": "Smuttlabs Shortweisse",
+      "brewery": "Smuttynose",
+      "description": ""
+  },
+  {
+      "name": "Kentucky Folklore",
+      "brewery": "Stillwater",
+      "description": "Stout aged in Kentucky Bourbon Barrels"
   }
 ]
