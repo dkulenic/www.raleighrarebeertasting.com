@@ -121,11 +121,21 @@
       "description": "A Black Gose brewed with Coastal NC Oysters"
   },
   {
-      "name": "",
+      "name": "Brett IPA",
       "brewery": "Devils Backbone",
-      "description": ""
+      "description": "8pt IPA 100% brett fermented"
   },
   {
+      "name": "Old Glen",
+      "brewery": "Devils Backbone",
+      "description": "English Style Old Ale"
+  },
+  {
+      "name": "Rute-Beer",
+      "brewery": "Devils Backbone",
+      "description": "First Batch Ever of this alcoholic root beer!  "
+  },
+  { 
       "name": "All Hail, WassAle",
       "brewery": "Double Barley",
       "description": "Barley Wine made with ginger, nutmeg, apples & oranges"
@@ -136,7 +146,7 @@
       "description": "Belgian Blond aged in Pierre Ferrand barrel"
   },
   {
-      "name": "",
+      "name": "Smoked Cherry Porter and January IPA of the Month",
       "brewery": "Foothills",
       "description": ""
   },
@@ -429,5 +439,7 @@
       "name": "Kentucky Folklore",
       "brewery": "Stillwater",
       "description": "Stout aged in Kentucky Bourbon Barrels"
-  }
+  },
+  {
+    
 ]
